@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "movie": "The Avengers",
+    "cinema": "Googolplex Cinema Ltd",
+    "date": "2023-04-16",
+    "time": "10:00 AM",
+    "available_seats": 120,
+    "ticket_price": 10.5
+  },
+  {
+    "id": 2,
+    "movie": "The Lion King",
+    "cinema": "Googolplex Cinema Ltd",
+    "date": "2023-04-16",
+    "time": "17:00 PM",
+    "available_seats": 100,
+    "ticket_price": 9.5
+  },
+  {
+    "id": 3,
+    "movie": "Joker",
+    "cinema": "Googolplex Cinema Ltd",
+    "date": "2023-04-16",
+    "time": "21:00 PM",
+    "available_seats": 80,
+    "ticket_price": 8.5
+  },
+  {
+    "id": 4,
+    "movie": "The Avengers",
+    "cinema": "Googolplex Cinema Ltd",
+    "date": "2023-04-17",
+    "time": "10:00 AM",
+    "available_seats": 120,
+    "ticket_price": 10.5
+  },
+  {
+    "id": 5,
+    "movie": "The Lion King",
+    "cinema": "Googolplex Cinema Ltd",
+    "date": "2023-04-17",
+    "time": "17:00 PM",
+    "available_seats": 100,
+    "ticket_price": 9.5
+  },
+  {
+    "id": 6,
+    "movie": "Joker",
+    "cinema": "Googolplex Cinema Ltd",
+    "date": "2023-04-17",
+    "time": "21:00 PM",
+    "available_seats": 80,
+    "ticket_price": 8.5
+  },
+  {
+    "id": 7,
+    "movie": "The Avengers",
+    "cinema": "Googolplex Cinema Ltd",
+    "date": "2023-04-18",
+    "time": "10:00 AM",
+    "available_seats": 120,
+    "ticket_price": 10.5
+  },
+  {
+    "id": 8,
+    "movie": "The Lion King",
+    "cinema": "Googolplex Cinema Ltd",
+    "date": "2023-04-18",
+    "time": "17:00 PM",
+    "available_seats": 100,
+    "ticket_price": 9.5
+  },
+  {
+    "id": 9,
+    "movie": "Joker",
+    "cinema": "Googolplex Cinema Ltd",
+    "date": "2023-04-18",
+    "time": "21:00 PM",
+    "available_seats": 80,
+    "ticket_price": 8.5
+  }
+  ]
+   
