@@ -112,7 +112,7 @@
   {
     "show_id": 12,
     "movie": "The Lion King",
-    "movie_id":1,
+    "movie_id":5,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
     "time": "17:00 PM",
@@ -132,7 +132,7 @@
   {
     "show_id": 14,
     "movie": "Joker",
-    "movie_id":2,
+    "movie_id":5,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
     "time": "21:00 PM",
@@ -142,7 +142,7 @@
   {
     "show_id": 15,
     "movie": "Joker",
-    "movie_id":2,
+    "movie_id":5,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
     "time": "21:00 PM",
