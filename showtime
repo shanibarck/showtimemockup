@@ -5,7 +5,7 @@
     "movie_id":10,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-16",
-    "time": "10:00 AM",
+    "time": "10:00",
     "available_seats": 120,
     "ticket_price": 10.5
   },
@@ -15,7 +15,7 @@
     "movie_id":9,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-16",
-    "time": "17:00 PM",
+    "time": "17:00",
     "available_seats": 100,
     "ticket_price": 9.5
   },
@@ -25,7 +25,7 @@
     "movie_id":8,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-16",
-    "time": "21:00 PM",
+    "time": "21:00",
     "available_seats": 80,
     "ticket_price": 8.5
   },
@@ -35,7 +35,7 @@
     "movie_id":7,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-17",
-    "time": "10:00 AM",
+    "time": "10:00",
     "available_seats": 120,
     "ticket_price": 10.5
   },
@@ -45,7 +45,7 @@
     "movie_id":6,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-17",
-    "time": "17:00 PM",
+    "time": "17:00",
     "available_seats": 100,
     "ticket_price": 9.5
   },
@@ -55,7 +55,7 @@
     "movie_id":5,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-17",
-    "time": "21:00 PM",
+    "time": "21:00",
     "available_seats": 80,
     "ticket_price": 8.5
   },
@@ -65,7 +65,7 @@
     "movie_id":4,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
-    "time": "10:00 AM",
+    "time": "10:00",
     "available_seats": 120,
     "ticket_price": 10.5
   },
@@ -75,7 +75,7 @@
     "movie_id":3,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
-    "time": "17:00 PM",
+    "time": "17:00",
     "available_seats": 100,
     "ticket_price": 9.5
   },
@@ -85,7 +85,7 @@
     "movie_id":2,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
-    "time": "21:00 PM",
+    "time": "21:00",
     "available_seats": 80,
     "ticket_price": 8.5
   },
@@ -95,7 +95,7 @@
     "movie_id":1,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-17",
-    "time": "21:00 PM",
+    "time": "21:00",
     "available_seats": 80,
     "ticket_price": 8.5
   },
@@ -105,7 +105,7 @@
     "movie_id":1,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
-    "time": "10:00 AM",
+    "time": "10:00",
     "available_seats": 120,
     "ticket_price": 10.5
   },
@@ -115,7 +115,7 @@
     "movie_id":5,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
-    "time": "17:00 PM",
+    "time": "17:00",
     "available_seats": 100,
     "ticket_price": 9.5
   },
@@ -125,7 +125,7 @@
     "movie_id":1,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
-    "time": "21:00 PM",
+    "time": "21:00",
     "available_seats": 80,
     "ticket_price": 8.5
   },
@@ -135,7 +135,7 @@
     "movie_id":5,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
-    "time": "21:00 PM",
+    "time": "21:00",
     "available_seats": 80,
     "ticket_price": 8.5
   },
@@ -145,7 +145,7 @@
     "movie_id":5,
     "cinema": "Googolplex Cinema Ltd",
     "date": "2023-04-18",
-    "time": "21:00 PM",
+    "time": "21:00",
     "available_seats": 80,
     "ticket_price": 8.5
   }
